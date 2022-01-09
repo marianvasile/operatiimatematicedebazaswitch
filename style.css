@@ -1,0 +1,7 @@
+body {
+    background-image: url(background.png);
+    background-color: #cccccc;
+    background-repeat: repeat-y;
+    background-size: cover;
+    position: relative;
+}
